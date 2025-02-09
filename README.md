@@ -1,7 +1,7 @@
 <h1>SelçukSports</h1>
-<p>Futbol tutkunları için büyük maçlar, heyecan ve coşku demektir. SelçukSports platformu, 09.02.2025 16:00 tarihinde oynanacak ⚽️ CORNETDON ALANYASPOR 🆚 FENERBAHÇE A.Ş. ⚽️ maçını sürekli ve yüksek kaliteyle izleme fırsatı sunuyor.</p>
+<p>Futbol tutkunları için büyük maçlar, heyecan ve coşku demektir. SelçukSports platformu, 09.02.2025 19:00 tarihinde oynanacak ⚽️ GALATASARAY A.Ş. 🆚 ADANA DEMİRSPOR A.Ş. ⚽️ maçını sürekli ve yüksek kaliteyle izleme fırsatı sunuyor.</p>
 
-<h2>SelçukSports 09.02.2025 16:00 CORNETDON ALANYASPOR - FENERBAHÇE A.Ş. Maçını Canlı İzle</h2>
+<h2>SelçukSports 09.02.2025 19:00 GALATASARAY A.Ş. - ADANA DEMİRSPOR A.Ş. Maçını Canlı İzle</h2>
 <p>Modern tasarımı ve kullanıcı dostu arayüzüyle SelçukSports, her yerde!</p>
 
 <center>
@@ -11,18 +11,18 @@
   </a>
 </center>
 
-<p>⚽️ CORNETDON ALANYASPOR 🆚 FENERBAHÇE A.Ş.</p>
+<p>⚽️ GALATASARAY A.Ş. 🆚 ADANA DEMİRSPOR A.Ş.</p>
 <p>📅 09 Şubat Cumartesi</p>
-<p>⏰ 16:00</p>
+<p>⏰ 19:00</p>
 <p>🔴🔶 Bu heyecan dolu karşılaşmayı kaçırma! Canlı yayınımız burada 👉 <a href="http://bit.ly/bosssportstv">http://bit.ly/bosssportstv</a></p>
 <p>📺 Full HD kalitesinde, kesintisiz futbol keyfi!</p>
-<p>✨ #Alanyaspor #Fenerbahçe #canlimacizle #bosssportstv</p>
+<p>✨ #Galatasaray #AdanaDemirspor #canlimacizle #bosssportstv</p>
 
 <h2>🌟 Neden SelçukSports'u Tercih Etmelisiniz?</h2>
 <p>SelçukSports, canlı maç yayınları konusunda kullanıcıların en çok tercih ettiği platformlardan biridir. İşte SelçukSports'un öne çıkan özellikleri:</p>
 
 <ul>
-  <li><strong>🏟 Canlı Maç Yayınları:</strong> CORNETDON ALANYASPOR - FENERBAHÇE A.Ş. gibi kritik maçları HD kalitesinde ve sürekli izleme keyfi.</li>
+  <li><strong>🏟 Canlı Maç Yayınları:</strong> GALATASARAY A.Ş. - ADANA DEMİRSPOR A.Ş. gibi kritik maçları HD kalitesinde ve sürekli izleme keyfi.</li>
   <li><strong>📱 Mobil Uyumluluk:</strong> Her yerden kolay erişim sağlayan mobil kullanıma uygun tasarım.</li>
   <li><strong>💬 7/24 Destek:</strong> Sorunlarınızı anında çözen müşteri destek hizmeti.</li>
 </ul>
